@@ -1,0 +1,6 @@
+Data Set ID,Data Set Name,Description,Test Case IDs,Data Type,Data Values,Expected Validation Message,Created By,Created Date
+DS_001,Valid Search Terms,Common valid search terms for product search,TC_001,Search Terms,dress|tshirt,,Test Team,16-01-2026
+DS_002,Invalid Search Terms,Invalid or non-existing search terms,TC_002,Search Terms,nonexistent123|typesome,No results were found for your search,Test Team,16-01-2026
+DS_003,Special Characters,Special characters for search testing,TC_003,Search Terms,!@#$%|!$%g5,No results were found for your search,Test Team,16-01-2026
+DS_004,Empty Search,Empty search input data,TC_004,Search Terms,,No results were found for your search,Test Team,16-01-2026
+DS_005,Product Search Terms,Product search terms for count verification,TC_005,Search Terms,t-shirt,,Test Team,16-01-2026

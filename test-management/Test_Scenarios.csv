@@ -1,0 +1,6 @@
+Test Scenario ID,Test Scenario Name,Description,Priority,Status,Created By,Created Date,Tags
+TS_001,User Registration,Test user registration functionality with valid and invalid data,High,Active,Test Team,2026-01-16,E2E,Registration
+TS_002,Product Search,Test product search functionality across different categories,High,Active,Test Team,2026-01-16,E2E,Search
+TS_003,Shopping Cart,Test adding/removing items from shopping cart,High,Active,Test Team,2026-01-16,E2E,Cart
+TS_004,Checkout Process,Test complete checkout flow with payment,High,Active,Test Team,2026-01-16,E2E,Checkout
+TS_005,User Login,Test user login with various credentials,Medium,Active,Test Team,2026-01-16,E2E,Authentication
