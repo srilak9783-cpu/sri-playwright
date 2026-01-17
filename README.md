@@ -1,4 +1,5 @@
 # Playwright POM Framework
+Learning GIT
 
 A comprehensive Playwright framework with Page Object Model (POM) design pattern for e-commerce testing, featuring Automation Practice search functionality.
 
